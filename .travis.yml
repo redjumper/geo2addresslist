@@ -3,8 +3,7 @@ python:
   - "2.6"
   - "2.7"
 
-script: python geo2addresslist.py
-after_success: bash ./deploy.sh
+script: bash ./deploy.sh
 branches:
   only:
     - master
