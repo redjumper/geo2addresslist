@@ -25,7 +25,7 @@ add address=157.240.0.0/17 comment="Facebook, Inc.-AS32934" list=freedom
 add address=157.240.160.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.163.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.169.0/24 comment="Facebook, Inc.-AS63293" list=freedom
-add address=157.240.170.0/24 comment="Facebook, Inc.-AS63293" list=freedom
+add address=157.240.170.0/23 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.172.0/22 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.176.0/22 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.180.0/23 comment="Facebook, Inc.-AS63293" list=freedom
@@ -136,6 +136,7 @@ add address=74.125.144.0/20 comment="Google LLC-AS15169" list=freedom
 add address=74.125.160.0/19 comment="Google LLC-AS15169" list=freedom
 add address=74.125.192.0/18 comment="Google LLC-AS15169" list=freedom
 add address=89.207.224.0/24 comment="Google LLC-AS36384" list=freedom
+add address=89.207.229.0/24 comment="Google LLC-AS36384" list=freedom
 add address=89.207.231.0/24 comment="Google LLC-AS15169" list=freedom
 add address=99.198.128.0/17 comment="Google Fiber Inc.-AS16591" list=freedom
 add address=103.21.184.0/22 comment="Google LLC-AS15169" list=freedom
@@ -348,8 +349,7 @@ add address=104.237.166.0/23 comment="Google Ireland Limited-AS43515" list=freed
 add address=104.237.168.0/22 comment="Google Ireland Limited-AS43515" list=freedom
 add address=104.237.172.0/24 comment="Google LLC-AS36040" list=freedom
 add address=104.237.173.0/24 comment="Google Ireland Limited-AS43515" list=freedom
-add address=104.237.174.0/24 comment="Google LLC-AS36040" list=freedom
-add address=104.237.175.0/24 comment="Google Ireland Limited-AS43515" list=freedom
+add address=104.237.174.0/23 comment="Google LLC-AS36040" list=freedom
 add address=104.237.176.0/21 comment="Google Ireland Limited-AS43515" list=freedom
 add address=104.237.184.0/22 comment="Google Ireland Limited-AS43515" list=freedom
 add address=104.237.188.0/22 comment="Google LLC-AS36040" list=freedom
