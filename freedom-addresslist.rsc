@@ -86,7 +86,8 @@ add address=70.32.128.0/22 comment="Google LLC-AS15169" list=freedom
 add address=70.32.132.0/24 comment="Google LLC-AS395973" list=freedom
 add address=70.32.133.0/24 comment="Google LLC-AS15169" list=freedom
 add address=70.32.134.0/23 comment="Google LLC-AS15169" list=freedom
-add address=70.32.136.0/23 comment="Google LLC-AS15169" list=freedom
+add address=70.32.136.0/24 comment="Google LLC-AS395973" list=freedom
+add address=70.32.137.0/24 comment="Google LLC-AS15169" list=freedom
 add address=70.32.138.0/24 comment="Google LLC-AS15169" list=freedom
 add address=70.32.139.0/24 comment="Google LLC-AS395973" list=freedom
 add address=70.32.140.0/22 comment="Google LLC-AS15169" list=freedom
@@ -138,7 +139,15 @@ add address=89.207.224.0/24 comment="Google LLC-AS36384" list=freedom
 add address=89.207.229.0/24 comment="Google LLC-AS36384" list=freedom
 add address=89.207.231.0/24 comment="Google LLC-AS15169" list=freedom
 add address=99.198.128.0/17 comment="Google Fiber Inc.-AS16591" list=freedom
+add address=103.21.184.0/22 comment="Google LLC-AS15169" list=freedom
 add address=103.86.148.0/24 comment="Google, LLC-AS36492" list=freedom
+add address=103.227.68.0/22 comment="Google LLC-AS15169" list=freedom
+add address=103.240.192.0/22 comment="Google LLC-AS15169" list=freedom
+add address=103.240.232.0/21 comment="Google LLC-AS15169" list=freedom
+add address=103.245.12.0/22 comment="Google LLC-AS15169" list=freedom
+add address=103.248.84.0/22 comment="Google LLC-AS15169" list=freedom
+add address=103.252.216.0/22 comment="Google LLC-AS15169" list=freedom
+add address=103.253.172.0/22 comment="Google LLC-AS15169" list=freedom
 add address=104.132.0.0/23 comment="Google LLC-AS36384" list=freedom
 add address=104.132.2.0/24 comment="Google LLC-AS36384" list=freedom
 add address=104.132.3.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
@@ -183,7 +192,9 @@ add address=104.132.64.0/22 comment="Google LLC-AS36384" list=freedom
 add address=104.132.68.0/24 comment="Google LLC-AS36384" list=freedom
 add address=104.132.69.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.70.0/23 comment="Google LLC-AS36384" list=freedom
-add address=104.132.72.0/22 comment="Google LLC-AS36384" list=freedom
+add address=104.132.72.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
+add address=104.132.73.0/24 comment="Google LLC-AS36384" list=freedom
+add address=104.132.74.0/23 comment="Google LLC-AS36384" list=freedom
 add address=104.132.76.0/24 comment="Google LLC-AS36384" list=freedom
 add address=104.132.77.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.78.0/23 comment="Google LLC-AS36384" list=freedom
@@ -236,9 +247,7 @@ add address=104.132.143.0/24 comment="Google LLC-AS36384" list=freedom
 add address=104.132.144.0/23 comment="Google LLC-AS36384" list=freedom
 add address=104.132.146.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.147.0/24 comment="Google LLC-AS36384" list=freedom
-add address=104.132.148.0/24 comment="Google LLC-AS36384" list=freedom
-add address=104.132.149.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
-add address=104.132.150.0/23 comment="Google LLC-AS36384" list=freedom
+add address=104.132.148.0/22 comment="Google LLC-AS36384" list=freedom
 add address=104.132.152.0/22 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.156.0/23 comment="Google LLC-AS36384" list=freedom
 add address=104.132.158.0/24 comment="Google LLC-AS36384" list=freedom
@@ -365,6 +374,15 @@ add address=136.32.0.0/11 comment="Google Fiber Inc.-AS16591" list=freedom
 add address=136.112.0.0/12 comment="Google LLC-AS15169" list=freedom
 add address=142.250.0.0/15 comment="Google LLC-AS15169" list=freedom
 add address=146.148.0.0/17 comment="Google LLC-AS15169" list=freedom
+add address=150.129.180.0/22 comment="Google LLC-AS15169" list=freedom
+add address=150.129.236.0/22 comment="Google LLC-AS15169" list=freedom
+add address=150.129.248.0/22 comment="Google LLC-AS15169" list=freedom
+add address=150.242.60.0/22 comment="Google LLC-AS15169" list=freedom
+add address=150.242.64.0/22 comment="Google LLC-AS15169" list=freedom
+add address=150.242.72.0/22 comment="Google LLC-AS15169" list=freedom
+add address=150.242.85.0/24 comment="Google LLC-AS15169" list=freedom
+add address=150.242.86.0/23 comment="Google LLC-AS15169" list=freedom
+add address=150.242.172.0/22 comment="Google LLC-AS15169" list=freedom
 add address=159.192.27.0/24 comment="Google, LLC-AS36492" list=freedom
 add address=162.216.148.0/22 comment="Google LLC-AS15169" list=freedom
 add address=162.222.176.0/21 comment="Google LLC-AS15169" list=freedom
