@@ -115,8 +115,7 @@ add address=104.132.7.0/24 comment="Google LLC-AS36384" list=freedom
 add address=104.132.8.0/21 comment="Google LLC-AS36384" list=freedom
 add address=104.132.16.0/24 comment="Google LLC-AS36384" list=freedom
 add address=104.132.17.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
-add address=104.132.18.0/24 comment="Google LLC-AS36384" list=freedom
-add address=104.132.19.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
+add address=104.132.18.0/23 comment="Google LLC-AS36384" list=freedom
 add address=104.132.20.0/22 comment="Google LLC-AS36384" list=freedom
 add address=104.132.24.0/24 comment="Google LLC-AS36384" list=freedom
 add address=104.132.25.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
