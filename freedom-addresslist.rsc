@@ -31,7 +31,8 @@ add address=157.240.160.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.163.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.169.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.170.0/23 comment="Facebook, Inc.-AS63293" list=freedom
-add address=157.240.172.0/22 comment="Facebook, Inc.-AS63293" list=freedom
+add address=157.240.173.0/24 comment="Facebook, Inc.-AS63293" list=freedom
+add address=157.240.174.0/23 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.176.0/22 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.180.0/23 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.192.0/18 comment="Facebook, Inc.-AS32934" list=freedom
@@ -274,7 +275,12 @@ add address=104.133.48.0/20 comment="Google LLC-AS36384" list=freedom
 add address=104.133.64.0/18 comment="Google LLC-AS36384" list=freedom
 add address=104.133.128.0/17 comment="Google LLC-AS36384" list=freedom
 add address=104.134.0.0/18 comment="Google LLC-AS36384" list=freedom
-add address=104.134.64.0/19 comment="Google LLC-AS36384" list=freedom
+add address=104.134.64.0/20 comment="Google LLC-AS36384" list=freedom
+add address=104.134.80.0/21 comment="Google LLC-AS36384" list=freedom
+add address=104.134.88.0/22 comment="Google LLC-AS36384" list=freedom
+add address=104.134.92.0/24 comment="Google LLC-AS15169" list=freedom
+add address=104.134.93.0/24 comment="Google LLC-AS36384" list=freedom
+add address=104.134.94.0/23 comment="Google LLC-AS36384" list=freedom
 add address=104.134.96.0/20 comment="Google LLC-AS36384" list=freedom
 add address=104.134.112.0/21 comment="Google LLC-AS36384" list=freedom
 add address=104.134.120.0/22 comment="Google LLC-AS36384" list=freedom
