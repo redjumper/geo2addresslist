@@ -16,8 +16,7 @@ add address=69.63.176.0/20 comment="Facebook, Inc.-AS32934" list=freedom
 add address=69.171.224.0/19 comment="Facebook, Inc.-AS32934" list=freedom
 add address=74.119.76.0/22 comment="Facebook, Inc.-AS32934" list=freedom
 add address=102.132.96.0/20 comment="Facebook, Inc.-AS32934" list=freedom
-add address=102.132.112.0/23 comment="Facebook, Inc.-AS63293" list=freedom
-add address=102.132.115.0/24 comment="Facebook, Inc.-AS63293" list=freedom
+add address=102.132.112.0/22 comment="Facebook, Inc.-AS63293" list=freedom
 add address=102.132.116.0/23 comment="Facebook, Inc.-AS63293" list=freedom
 add address=102.132.118.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=102.132.125.0/24 comment="Facebook, Inc.-AS63293" list=freedom
@@ -30,6 +29,7 @@ add address=129.134.136.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=129.134.144.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.0.0/17 comment="Facebook, Inc.-AS32934" list=freedom
 add address=157.240.128.0/24 comment="Facebook, Inc.-AS63293" list=freedom
+add address=157.240.158.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.160.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.163.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.169.0/24 comment="Facebook, Inc.-AS63293" list=freedom
@@ -52,8 +52,16 @@ add address=23.228.128.0/18 comment="Google Fiber Inc.-AS16591" list=freedom
 add address=23.236.48.0/20 comment="Google LLC-AS15169" list=freedom
 add address=23.251.128.0/19 comment="Google LLC-AS15169" list=freedom
 add address=23.255.128.0/17 comment="Google Fiber Inc.-AS16591" list=freedom
-add address=34.64.0.0/11 comment="Google LLC-AS15169" list=freedom
-add address=34.96.0.0/12 comment="Google LLC-AS15169" list=freedom
+add address=34.64.0.0/16 comment="Google Asia Pacific Pte. Ltd.-AS139070" list=freedom
+add address=34.65.0.0/16 comment="Google LLC-AS15169" list=freedom
+add address=34.66.0.0/15 comment="Google LLC-AS15169" list=freedom
+add address=34.68.0.0/14 comment="Google LLC-AS15169" list=freedom
+add address=34.72.0.0/13 comment="Google LLC-AS15169" list=freedom
+add address=34.80.0.0/12 comment="Google LLC-AS15169" list=freedom
+add address=34.96.0.0/14 comment="Google LLC-AS15169" list=freedom
+add address=34.100.0.0/16 comment="Google LLC-AS15169" list=freedom
+add address=34.102.0.0/15 comment="Google LLC-AS15169" list=freedom
+add address=34.104.0.0/13 comment="Google LLC-AS15169" list=freedom
 add address=34.112.0.0/13 comment="Google LLC-AS19527" list=freedom
 add address=34.120.0.0/14 comment="Google LLC-AS19527" list=freedom
 add address=34.124.0.0/14 comment="Google LLC-AS15169" list=freedom
@@ -63,7 +71,16 @@ add address=35.196.0.0/15 comment="Google LLC-AS15169" list=freedom
 add address=35.198.0.0/16 comment="Google LLC-AS15169" list=freedom
 add address=35.199.0.0/17 comment="Google LLC-AS15169" list=freedom
 add address=35.199.128.0/18 comment="Google LLC-AS15169" list=freedom
-add address=35.200.0.0/14 comment="Google LLC-AS15169" list=freedom
+add address=35.200.0.0/15 comment="Google LLC-AS15169" list=freedom
+add address=35.202.0.0/16 comment="Google LLC-AS15169" list=freedom
+add address=35.203.0.0/17 comment="Google LLC-AS15169" list=freedom
+add address=35.203.128.0/18 comment="Google LLC-AS15169" list=freedom
+add address=35.203.192.0/19 comment="Google LLC-AS15169" list=freedom
+add address=35.203.224.0/23 comment="Google LLC-AS19527" list=freedom
+add address=35.203.226.0/23 comment="Google LLC-AS15169" list=freedom
+add address=35.203.228.0/22 comment="Google LLC-AS15169" list=freedom
+add address=35.203.232.0/21 comment="Google LLC-AS15169" list=freedom
+add address=35.203.240.0/20 comment="Google LLC-AS15169" list=freedom
 add address=35.204.0.0/15 comment="Google LLC-AS15169" list=freedom
 add address=35.206.0.0/15 comment="Google LLC-AS19527" list=freedom
 add address=35.208.0.0/13 comment="Google LLC-AS19527" list=freedom
@@ -98,8 +115,7 @@ add address=70.32.133.0/24 comment="Google LLC-AS15169" list=freedom
 add address=70.32.134.0/23 comment="Google LLC-AS15169" list=freedom
 add address=70.32.136.0/24 comment="Google LLC-AS395973" list=freedom
 add address=70.32.137.0/24 comment="Google LLC-AS15169" list=freedom
-add address=70.32.138.0/24 comment="Google LLC-AS15169" list=freedom
-add address=70.32.139.0/24 comment="Google LLC-AS395973" list=freedom
+add address=70.32.138.0/23 comment="Google LLC-AS15169" list=freedom
 add address=70.32.140.0/22 comment="Google LLC-AS15169" list=freedom
 add address=70.32.144.0/20 comment="Google LLC-AS15169" list=freedom
 add address=72.14.192.0/18 comment="Google LLC-AS15169" list=freedom
@@ -286,11 +302,7 @@ add address=104.134.88.0/22 comment="Google LLC-AS36384" list=freedom
 add address=104.134.92.0/24 comment="Google LLC-AS15169" list=freedom
 add address=104.134.93.0/24 comment="Google LLC-AS36384" list=freedom
 add address=104.134.94.0/23 comment="Google LLC-AS36384" list=freedom
-add address=104.134.96.0/20 comment="Google LLC-AS36384" list=freedom
-add address=104.134.112.0/21 comment="Google LLC-AS36384" list=freedom
-add address=104.134.120.0/22 comment="Google LLC-AS36384" list=freedom
-add address=104.134.124.0/23 comment="Google LLC-AS36384" list=freedom
-add address=104.134.126.0/23 comment="Google LLC-AS15169" list=freedom
+add address=104.134.96.0/19 comment="Google LLC-AS36384" list=freedom
 add address=104.134.128.0/18 comment="Google LLC-AS36384" list=freedom
 add address=104.134.192.0/24 comment="Google LLC-AS395973" list=freedom
 add address=104.134.193.0/24 comment="Google LLC-AS36384" list=freedom
@@ -404,7 +416,8 @@ add address=208.117.247.0/24 comment="Google Ireland Limited-AS43515" list=freed
 add address=208.117.248.0/24 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.117.249.0/24 comment="Google LLC-AS36040" list=freedom
 add address=208.117.250.0/23 comment="Google LLC-AS36040" list=freedom
-add address=208.117.252.0/23 comment="Google LLC-AS36040" list=freedom
+add address=208.117.252.0/24 comment="Google LLC-AS36040" list=freedom
+add address=208.117.253.0/24 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.117.254.0/23 comment="Google Ireland Limited-AS43515" list=freedom
 add address=209.85.128.0/17 comment="Google LLC-AS15169" list=freedom
 add address=209.107.178.0/23 comment="Google, LLC-AS36492" list=freedom
