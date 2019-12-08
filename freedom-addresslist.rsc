@@ -16,7 +16,8 @@ add address=69.63.176.0/20 comment="Facebook, Inc.-AS32934" list=freedom
 add address=69.171.224.0/19 comment="Facebook, Inc.-AS32934" list=freedom
 add address=74.119.76.0/22 comment="Facebook, Inc.-AS32934" list=freedom
 add address=102.132.96.0/20 comment="Facebook, Inc.-AS32934" list=freedom
-add address=102.132.112.0/22 comment="Facebook, Inc.-AS63293" list=freedom
+add address=102.132.112.0/23 comment="Facebook, Inc.-AS63293" list=freedom
+add address=102.132.115.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=102.132.116.0/23 comment="Facebook, Inc.-AS63293" list=freedom
 add address=102.132.118.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=102.132.125.0/24 comment="Facebook, Inc.-AS63293" list=freedom
@@ -27,6 +28,7 @@ add address=129.134.132.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=129.134.135.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=129.134.136.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=129.134.144.0/24 comment="Facebook, Inc.-AS63293" list=freedom
+add address=129.134.148.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.0.0/17 comment="Facebook, Inc.-AS32934" list=freedom
 add address=157.240.128.0/24 comment="Facebook, Inc.-AS63293" list=freedom
 add address=157.240.158.0/24 comment="Facebook, Inc.-AS63293" list=freedom
@@ -367,6 +369,7 @@ add address=136.32.0.0/11 comment="Google Fiber Inc.-AS16591" list=freedom
 add address=136.112.0.0/12 comment="Google LLC-AS15169" list=freedom
 add address=136.146.52.0/22 comment="Google LLC-AS396982" list=freedom
 add address=142.250.0.0/15 comment="Google LLC-AS15169" list=freedom
+add address=143.131.0.0/24 comment="Google, LLC-AS36492" list=freedom
 add address=143.131.2.0/23 comment="Google, LLC-AS36492" list=freedom
 add address=146.66.121.0/24 comment="Google LLC-AS396982" list=freedom
 add address=146.148.0.0/17 comment="Google LLC-AS15169" list=freedom
