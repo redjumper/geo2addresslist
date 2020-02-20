@@ -8,7 +8,7 @@ from urllib2 import urlopen
 
 def download_db():
 
-	url = "https://geolite.maxmind.com/download/geoip/database/GeoLite2-ASN-CSV.zip"
+	url = "https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-ASN-CSV&license_key=tu5iYvw1SbaCpzhs&suffix=zip"
 	file = "GeoLite2-ASN-CSV.zip"
 	
 	response = urlopen(url)
