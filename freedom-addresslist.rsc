@@ -189,7 +189,8 @@ add address=104.132.56.0/24 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.57.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.58.0/24 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.59.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
-add address=104.132.60.0/23 comment="Google Switzerland GmbH-AS41264" list=freedom
+add address=104.132.60.0/24 comment="GOOGLE-IT-AS36384" list=freedom
+add address=104.132.61.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.62.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.63.0/24 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.64.0/22 comment="GOOGLE-IT-AS36384" list=freedom
@@ -393,7 +394,6 @@ add address=146.148.0.0/17 comment="GOOGLE-AS15169" list=freedom
 add address=159.192.27.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=162.216.148.0/22 comment="GOOGLE-AS15169" list=freedom
 add address=162.222.176.0/21 comment="GOOGLE-AS15169" list=freedom
-add address=168.149.150.0/23 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=170.10.222.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=172.110.32.0/21 comment="GOOGLE-AS15169" list=freedom
 add address=172.217.0.0/16 comment="GOOGLE-AS15169" list=freedom
@@ -470,7 +470,6 @@ add address=95.161.64.0/20 comment="Telegram Messenger LLP-AS62041" list=freedom
 add address=149.154.160.0/21 comment="Telegram Messenger LLP-AS62041" list=freedom
 add address=149.154.168.0/22 comment="Telegram Messenger LLP-AS62014" list=freedom
 add address=149.154.172.0/22 comment="Telegram Messenger LLP-AS59930" list=freedom
-add address=200.152.174.0/24 comment="TUMBLR-CORP-AS32345" list=freedom
 add address=8.25.194.0/23 comment="TWITTER-AS35995" list=freedom
 add address=8.25.196.0/23 comment="TWITTER-AS35995" list=freedom
 add address=64.63.0.0/18 comment="TWITTER-AS13414" list=freedom
@@ -501,6 +500,7 @@ add address=199.96.56.0/21 comment="TWITTER-AS13414" list=freedom
 add address=202.160.128.0/22 comment="TWITTER-AS13414" list=freedom
 add address=209.237.192.0/21 comment="TWITTER-AS13414" list=freedom
 add address=209.237.200.0/23 comment="TWITTER-AS13414" list=freedom
+add address=209.237.203.0/24 comment="TWITTER-AS13414" list=freedom
 add address=209.237.204.0/22 comment="TWITTER-AS13414" list=freedom
 add address=209.237.208.0/21 comment="TWITTER-AS13414" list=freedom
 add address=209.237.216.0/23 comment="TWITTER-AS13414" list=freedom
