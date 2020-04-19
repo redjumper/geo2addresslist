@@ -29,6 +29,7 @@ add address=129.134.136.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.140.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.144.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.148.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
+add address=129.134.154.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=157.240.0.0/17 comment="FACEBOOK-AS32934" list=freedom
 add address=157.240.128.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=157.240.158.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
@@ -355,9 +356,7 @@ add address=108.177.0.0/17 comment="GOOGLE-AS15169" list=freedom
 add address=130.211.0.0/16 comment="GOOGLE-AS15169" list=freedom
 add address=136.22.0.0/23 comment="GOOGLE-ACCESS-NYC-AS394699" list=freedom
 add address=136.22.64.0/20 comment="GOOGLEWIFI-AS36492" list=freedom
-add address=136.22.80.0/22 comment="GOOGLEWIFI-AS36492" list=freedom
-add address=136.22.84.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
-add address=136.22.86.0/23 comment="GOOGLEWIFI-AS36492" list=freedom
+add address=136.22.80.0/21 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.22.88.0/22 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.22.92.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.22.94.0/23 comment="GOOGLEWIFI-AS36492" list=freedom
@@ -366,6 +365,8 @@ add address=136.22.120.0/21 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.32.0.0/11 comment="GOOGLE-FIBER-AS16591" list=freedom
 add address=136.112.0.0/12 comment="GOOGLE-AS15169" list=freedom
 add address=136.146.52.0/22 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
+add address=137.83.213.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
+add address=137.83.215.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=137.83.216.0/21 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=137.83.224.0/20 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=137.83.240.0/21 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
