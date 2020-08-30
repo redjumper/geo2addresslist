@@ -27,6 +27,7 @@ add address=129.134.128.0/22 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.132.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.135.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.136.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
+add address=129.134.138.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.140.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.144.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.147.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
@@ -105,10 +106,7 @@ add address=35.208.0.0/14 comment="GOOGLE-AS15169" list=freedom
 add address=35.212.0.0/17 comment="GOOGLE-AS15169" list=freedom
 add address=35.212.128.0/17 comment="GOOGLE-2-AS19527" list=freedom
 add address=35.213.0.0/16 comment="GOOGLE-AS15169" list=freedom
-add address=35.214.0.0/16 comment="GOOGLE-AS15169" list=freedom
-add address=35.215.0.0/17 comment="GOOGLE-AS15169" list=freedom
-add address=35.215.128.0/18 comment="GOOGLE-AS15169" list=freedom
-add address=35.215.192.0/18 comment="GOOGLE-2-AS19527" list=freedom
+add address=35.214.0.0/15 comment="GOOGLE-AS15169" list=freedom
 add address=35.216.0.0/15 comment="GOOGLE-AS15169" list=freedom
 add address=35.218.0.0/16 comment="GOOGLE-2-AS19527" list=freedom
 add address=35.219.0.0/17 comment="GOOGLE-AS15169" list=freedom
@@ -372,6 +370,8 @@ add address=134.195.26.0/23 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=136.22.0.0/23 comment="GOOGLE-ACCESS-NYC-AS394699" list=freedom
 add address=136.22.64.0/19 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.22.96.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
+add address=136.22.99.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
+add address=136.22.100.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.22.116.0/22 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.22.120.0/21 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.32.0.0/11 comment="GOOGLE-FIBER-AS16591" list=freedom
