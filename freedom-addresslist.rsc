@@ -16,7 +16,8 @@ add address=69.63.176.0/20 comment="FACEBOOK-AS32934" list=freedom
 add address=69.171.224.0/19 comment="FACEBOOK-AS32934" list=freedom
 add address=74.119.76.0/22 comment="FACEBOOK-AS32934" list=freedom
 add address=102.132.96.0/20 comment="FACEBOOK-AS32934" list=freedom
-add address=102.132.112.0/22 comment="FACEBOOK-OFFNET-AS63293" list=freedom
+add address=102.132.112.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
+add address=102.132.114.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=102.132.116.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=102.132.118.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=102.132.124.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
@@ -166,7 +167,9 @@ add address=104.132.27.0/24 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.28.0/23 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.30.0/24 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.31.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
-add address=104.132.32.0/22 comment="GOOGLE-IT-AS36384" list=freedom
+add address=104.132.32.0/24 comment="GOOGLE-IT-AS36384" list=freedom
+add address=104.132.33.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
+add address=104.132.34.0/23 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.36.0/23 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.38.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.39.0/24 comment="GOOGLE-IT-AS36384" list=freedom
