@@ -88,13 +88,10 @@ add address=35.199.0.0/17 comment="GOOGLE-AS15169" list=freedom
 add address=35.199.128.0/18 comment="GOOGLE-AS15169" list=freedom
 add address=35.200.0.0/14 comment="GOOGLE-AS15169" list=freedom
 add address=35.204.0.0/15 comment="GOOGLE-AS15169" list=freedom
-add address=35.206.0.0/24 comment="GOOGLE-AS15169" list=freedom
-add address=35.206.1.0/24 comment="GOOGLE-2-AS19527" list=freedom
-add address=35.206.2.0/23 comment="GOOGLE-AS15169" list=freedom
+add address=35.206.0.0/22 comment="GOOGLE-AS15169" list=freedom
 add address=35.206.4.0/24 comment="GOOGLE-AS15169" list=freedom
 add address=35.206.5.0/24 comment="GOOGLE-2-AS19527" list=freedom
-add address=35.206.6.0/24 comment="GOOGLE-AS15169" list=freedom
-add address=35.206.7.0/24 comment="GOOGLE-2-AS19527" list=freedom
+add address=35.206.6.0/23 comment="GOOGLE-2-AS19527" list=freedom
 add address=35.206.8.0/21 comment="GOOGLE-2-AS19527" list=freedom
 add address=35.206.16.0/20 comment="GOOGLE-2-AS19527" list=freedom
 add address=35.206.32.0/19 comment="GOOGLE-AS15169" list=freedom
@@ -284,12 +281,7 @@ add address=104.133.24.0/24 comment="Google Switzerland GmbH-AS41264" list=freed
 add address=104.133.25.0/24 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.133.26.0/23 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.133.28.0/22 comment="GOOGLE-IT-AS36384" list=freedom
-add address=104.133.32.0/23 comment="GOOGLE-IT-AS36384" list=freedom
-add address=104.133.34.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
-add address=104.133.35.0/24 comment="GOOGLE-IT-AS36384" list=freedom
-add address=104.133.36.0/22 comment="GOOGLE-IT-AS36384" list=freedom
-add address=104.133.40.0/21 comment="GOOGLE-IT-AS36384" list=freedom
-add address=104.133.48.0/20 comment="GOOGLE-IT-AS36384" list=freedom
+add address=104.133.32.0/19 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.133.64.0/19 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.133.96.0/21 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.133.104.0/23 comment="GOOGLE-IT-AS36384" list=freedom
