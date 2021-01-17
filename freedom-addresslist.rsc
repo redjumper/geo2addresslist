@@ -19,8 +19,7 @@ add address=102.132.96.0/20 comment="FACEBOOK-AS32934" list=freedom
 add address=102.132.112.0/22 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=102.132.116.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=102.132.118.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
-add address=102.132.124.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
-add address=102.132.126.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
+add address=102.132.124.0/22 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=103.4.96.0/22 comment="FACEBOOK-AS32934" list=freedom
 add address=129.134.0.0/17 comment="FACEBOOK-AS32934" list=freedom
 add address=129.134.128.0/22 comment="FACEBOOK-OFFNET-AS63293" list=freedom
@@ -32,7 +31,7 @@ add address=129.134.140.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.143.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.144.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.147.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
-add address=129.134.149.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
+add address=129.134.148.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.150.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.154.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.156.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
@@ -281,7 +280,12 @@ add address=104.133.24.0/24 comment="Google Switzerland GmbH-AS41264" list=freed
 add address=104.133.25.0/24 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.133.26.0/23 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.133.28.0/22 comment="GOOGLE-IT-AS36384" list=freedom
-add address=104.133.32.0/19 comment="GOOGLE-IT-AS36384" list=freedom
+add address=104.133.32.0/23 comment="GOOGLE-IT-AS36384" list=freedom
+add address=104.133.34.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
+add address=104.133.35.0/24 comment="GOOGLE-IT-AS36384" list=freedom
+add address=104.133.36.0/22 comment="GOOGLE-IT-AS36384" list=freedom
+add address=104.133.40.0/21 comment="GOOGLE-IT-AS36384" list=freedom
+add address=104.133.48.0/20 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.133.64.0/19 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.133.96.0/21 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.133.104.0/23 comment="GOOGLE-IT-AS36384" list=freedom
@@ -435,6 +439,9 @@ add address=199.223.239.0/24 comment="GOOGLE-AS15169" list=freedom
 add address=199.247.32.0/20 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=199.250.249.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=205.174.156.0/23 comment="GOOGLEWIFI-AS36492" list=freedom
+add address=206.214.234.0/23 comment="GOOGLEWIFI-AS36492" list=freedom
+add address=206.214.236.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
+add address=206.214.238.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=207.223.160.0/20 comment="GOOGLE-AS15169" list=freedom
 add address=208.65.152.0/22 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.68.108.0/22 comment="GOOGLE-AS15169" list=freedom
