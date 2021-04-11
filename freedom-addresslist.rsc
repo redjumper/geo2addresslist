@@ -22,7 +22,7 @@ add address=102.132.116.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=102.132.118.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=102.132.124.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=102.132.127.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
-add address=102.221.189.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
+add address=102.221.188.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=103.4.96.0/22 comment="FACEBOOK-AS32934" list=freedom
 add address=129.134.0.0/17 comment="FACEBOOK-AS32934" list=freedom
 add address=129.134.128.0/22 comment="FACEBOOK-OFFNET-AS63293" list=freedom
@@ -60,6 +60,11 @@ add address=8.8.4.0/24 comment="GOOGLE-AS15169" list=freedom
 add address=8.8.8.0/24 comment="GOOGLE-AS15169" list=freedom
 add address=8.34.208.0/20 comment="GOOGLE-AS15169" list=freedom
 add address=8.35.192.0/20 comment="GOOGLE-AS15169" list=freedom
+add address=23.227.33.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
+add address=23.227.34.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
+add address=23.227.40.0/21 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
+add address=23.227.48.0/21 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
+add address=23.227.60.0/23 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=23.227.62.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=23.228.128.0/18 comment="GOOGLE-FIBER-AS16591" list=freedom
 add address=23.236.48.0/20 comment="GOOGLE-AS15169" list=freedom
@@ -89,6 +94,7 @@ add address=34.128.0.0/11 comment="GOOGLE-AS15169" list=freedom
 add address=34.160.0.0/12 comment="GOOGLE-AS15169" list=freedom
 add address=34.176.0.0/13 comment="GOOGLE-AS15169" list=freedom
 add address=34.184.0.0/14 comment="GOOGLE-AS15169" list=freedom
+add address=34.188.0.0/14 comment="GOOGLE-2-AS19527" list=freedom
 add address=35.184.0.0/13 comment="GOOGLE-AS15169" list=freedom
 add address=35.192.0.0/14 comment="GOOGLE-AS15169" list=freedom
 add address=35.196.0.0/15 comment="GOOGLE-AS15169" list=freedom
@@ -97,9 +103,7 @@ add address=35.199.0.0/17 comment="GOOGLE-AS15169" list=freedom
 add address=35.199.128.0/18 comment="GOOGLE-AS15169" list=freedom
 add address=35.200.0.0/14 comment="GOOGLE-AS15169" list=freedom
 add address=35.204.0.0/15 comment="GOOGLE-AS15169" list=freedom
-add address=35.206.0.0/24 comment="GOOGLE-AS15169" list=freedom
-add address=35.206.1.0/24 comment="GOOGLE-2-AS19527" list=freedom
-add address=35.206.2.0/23 comment="GOOGLE-AS15169" list=freedom
+add address=35.206.0.0/22 comment="GOOGLE-AS15169" list=freedom
 add address=35.206.4.0/23 comment="GOOGLE-AS15169" list=freedom
 add address=35.206.6.0/24 comment="GOOGLE-AS15169" list=freedom
 add address=35.206.7.0/24 comment="GOOGLE-2-AS19527" list=freedom
@@ -126,6 +130,7 @@ add address=35.240.0.0/13 comment="GOOGLE-AS15169" list=freedom
 add address=43.229.32.0/23 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=45.56.0.0/18 comment="GOOGLE-FIBER-AS16591" list=freedom
 add address=46.235.152.0/21 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
+add address=52.119.11.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=63.141.159.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=64.9.224.0/23 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=64.9.227.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
@@ -156,6 +161,7 @@ add address=74.221.128.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=85.208.98.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=89.207.224.0/24 comment="GOOGLE-IT-AS36384" list=freedom
 add address=89.207.229.0/24 comment="GOOGLE-IT-AS36384" list=freedom
+add address=92.119.244.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=98.158.240.0/20 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=99.198.128.0/17 comment="GOOGLE-FIBER-AS16591" list=freedom
 add address=103.9.96.0/22 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
@@ -242,13 +248,11 @@ add address=104.132.152.0/24 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.153.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.154.0/23 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.156.0/22 comment="GOOGLE-IT-AS36384" list=freedom
-add address=104.132.160.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
-add address=104.132.161.0/24 comment="GOOGLE-IT-AS36384" list=freedom
+add address=104.132.160.0/23 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.162.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.163.0/24 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.164.0/22 comment="GOOGLE-IT-AS36384" list=freedom
-add address=104.132.168.0/24 comment="GOOGLE-IT-AS36384" list=freedom
-add address=104.132.169.0/24 comment="Google Switzerland GmbH-AS41264" list=freedom
+add address=104.132.168.0/23 comment="Google Switzerland GmbH-AS41264" list=freedom
 add address=104.132.170.0/23 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.172.0/22 comment="GOOGLE-IT-AS36384" list=freedom
 add address=104.132.176.0/23 comment="GOOGLE-IT-AS36384" list=freedom
@@ -371,8 +375,9 @@ add address=135.84.69.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=136.22.0.0/23 comment="GOOGLE-ACCESS-NYC-AS394699" list=freedom
 add address=136.22.64.0/23 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.22.67.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
-add address=136.22.68.0/22 comment="GOOGLEWIFI-AS36492" list=freedom
-add address=136.22.72.0/21 comment="GOOGLEWIFI-AS36492" list=freedom
+add address=136.22.68.0/24 comment="GOOGLEWIFI-AS36492" list=freedom
+add address=136.22.70.0/23 comment="GOOGLEWIFI-AS36492" list=freedom
+add address=136.22.76.0/22 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.22.80.0/20 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.22.96.0/22 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=136.22.100.0/23 comment="GOOGLEWIFI-AS36492" list=freedom
@@ -474,6 +479,7 @@ add address=205.174.156.0/23 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=206.214.224.0/20 comment="GOOGLEWIFI-AS36492" list=freedom
 add address=207.223.160.0/20 comment="GOOGLE-AS15169" list=freedom
 add address=208.65.152.0/22 comment="Google Ireland Limited-AS43515" list=freedom
+add address=208.67.156.0/22 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=208.68.108.0/22 comment="GOOGLE-AS15169" list=freedom
 add address=208.76.68.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=208.81.188.0/22 comment="GOOGLE-AS15169" list=freedom
@@ -491,7 +497,7 @@ add address=208.117.247.0/24 comment="Google Ireland Limited-AS43515" list=freed
 add address=208.117.248.0/23 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.117.251.0/24 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.117.253.0/24 comment="Google Ireland Limited-AS43515" list=freedom
-add address=208.117.254.0/23 comment="Google Ireland Limited-AS43515" list=freedom
+add address=208.117.255.0/24 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.127.0.0/17 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=208.127.128.0/18 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=208.127.192.0/21 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
