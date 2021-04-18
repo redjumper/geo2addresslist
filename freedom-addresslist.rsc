@@ -39,11 +39,11 @@ add address=129.134.150.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.154.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.156.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=129.134.158.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
+add address=129.134.160.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=157.240.0.0/17 comment="FACEBOOK-AS32934" list=freedom
 add address=157.240.128.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=157.240.158.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=157.240.160.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
-add address=157.240.169.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=157.240.172.0/24 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=157.240.174.0/23 comment="FACEBOOK-OFFNET-AS63293" list=freedom
 add address=157.240.176.0/22 comment="FACEBOOK-OFFNET-AS63293" list=freedom
@@ -371,6 +371,7 @@ add address=109.68.56.0/21 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=109.235.99.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=130.211.0.0/16 comment="GOOGLE-AS15169" list=freedom
 add address=134.195.26.0/23 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
+add address=134.238.0.0/16 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=135.84.69.0/24 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=136.22.0.0/23 comment="GOOGLE-ACCESS-NYC-AS394699" list=freedom
 add address=136.22.64.0/23 comment="GOOGLEWIFI-AS36492" list=freedom
@@ -487,7 +488,8 @@ add address=208.86.170.0/23 comment="GOOGLE-PRIVATE-CLOUD-AS396982" list=freedom
 add address=208.117.224.0/24 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.117.227.0/24 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.117.228.0/22 comment="Google Ireland Limited-AS43515" list=freedom
-add address=208.117.232.0/22 comment="Google Ireland Limited-AS43515" list=freedom
+add address=208.117.232.0/23 comment="Google Ireland Limited-AS43515" list=freedom
+add address=208.117.235.0/24 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.117.236.0/23 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.117.239.0/24 comment="Google Ireland Limited-AS43515" list=freedom
 add address=208.117.241.0/24 comment="Google Ireland Limited-AS43515" list=freedom
@@ -540,7 +542,6 @@ add address=91.108.20.0/22 comment="Telegram Messenger Inc-AS44907" list=freedom
 add address=91.108.56.0/23 comment="Telegram Messenger Inc-AS62014" list=freedom
 add address=91.108.58.0/23 comment="Telegram Messenger Inc-AS62041" list=freedom
 add address=95.161.64.0/20 comment="Telegram Messenger Inc-AS62041" list=freedom
-add address=95.161.84.0/23 comment="Telegram Messenger Inc-AS44907" list=freedom
 add address=149.154.160.0/21 comment="Telegram Messenger Inc-AS62041" list=freedom
 add address=149.154.168.0/22 comment="Telegram Messenger Inc-AS62014" list=freedom
 add address=149.154.172.0/22 comment="Telegram Messenger Inc-AS59930" list=freedom
